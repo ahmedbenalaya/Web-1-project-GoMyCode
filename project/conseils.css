@@ -1,0 +1,303 @@
+.image{
+    width: 50em;
+    height: 50em;
+}
+body{
+    background-image: linear-gradient(#AFEEEE, #E6E6FA);
+    }
+    .nav {
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        display: flex !important;
+        flex-wrap: nowrap !important;   
+        justify-content: space-around !important;
+        
+    
+    }
+    .navbar {
+        background-color: transparent !important;
+        border-color: transparent !important;
+    }
+    
+    .navbar-nav {
+        margin: 7.5px 10px;
+    }
+    
+    #ulNav>li {
+        margin-left: 70px;
+        font-size: 2em !important;
+        text-transform: uppercase !important;
+        font-weight: bold !important;
+    }
+    .nav>li>a {
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+        margin-top: 10px;
+    
+    }
+    
+    a:hover{
+        color: black !important;
+    }
+    a {
+        color:#191970 !important;
+        text-decoration: none;
+        background-color: transparent;
+        font-size: 35px;
+    }
+    
+    
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+      }
+      
+      .navbar .navbar-collapse {
+        text-align: center;
+      }
+      
+    .cover{
+    background-image: url(https://www.notre-planete.info/actualites/images/sante/coronavirus-virus-Chine.jpg);
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 60px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+    }
+    .cover .heading {
+        font-size: 6em;
+        font-family: 'Bree Serif', serif;
+        color: #fff;
+        position: relative;
+        display: flex;
+        justify-content: center;      
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, .6);
+    }
+    .heading{
+        margin-top: 110px !important;
+        margin-left: 360px;
+
+    }
+    .oms{
+        width: 400px !important;
+        height: 400px !important;
+        margin-top: 12px;
+        margin-left: 12px;
+        margin-bottom: 12px;
+        margin-right: 12px;
+    }
+    p{
+        font-size: 15px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+    }
+    .first {
+        color: rgb(34, 50, 95);
+        font-weight: 2em;
+        font-family: 'Bree Serif', serif;
+        margin: 30px 0px 40px 30px;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+    }
+    h3{
+        padding-left: 40px;
+        padding-right: 40px;
+        font-size: 25px;
+        color: rgb(34, 50, 95);
+        font-family: 'Bree Serif', serif;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+
+    }
+    .list1{
+        font-size: 18px;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-family: cursive;
+
+    }
+    .list2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+    .open{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .open1{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }.open2{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }.open3{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }.open4{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }.open5{
+        padding: 10px;
+        background: #DDD;
+        margin: 20px auto 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .box{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }
+    .box1{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }
+    .box2{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }.box2{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }.box3{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }.box4{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }.box5{
+        padding: 20px;
+        margin: auto;
+        display: none;
+        
+    }
+    .taille1{
+width: 300px;
+height: 300px;
+    }
+    .taille2{
+        width: 200px;
+height: 300px;
+
+    }
+    .scale-up-bl {
+        -webkit-animation: scale-up-bl 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+                animation: scale-up-bl 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    }
+    /* ----------------------------------------------
+     * Generated by Animista on 2020-3-23 14:33:7
+     * Licensed under FreeBSD License.
+     * See http://animista.net/license for more info. 
+     * w: http://animista.net, t: @cssanimista
+     * ---------------------------------------------- */
+    
+    /**
+     * ----------------------------------------
+     * animation scale-up-bl
+     * ----------------------------------------
+     */
+     @-webkit-keyframes scale-up-bl {
+        0% {
+          -webkit-transform: scale(0.5);
+                  transform: scale(0.5);
+          -webkit-transform-origin: 0% 100%;
+                  transform-origin: 0% 100%;
+        }
+        100% {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-transform-origin: 0% 100%;
+                  transform-origin: 0% 100%;
+        }
+      }
+      @keyframes scale-up-bl {
+        0% {
+          -webkit-transform: scale(0.5);
+                  transform: scale(0.5);
+          -webkit-transform-origin: 0% 100%;
+                  transform-origin: 0% 100%;
+        }
+        100% {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-transform-origin: 0% 100%;
+                  transform-origin: 0% 100%;
+        }
+      }
+      .scale-up-ver-center {
+        -webkit-animation: scale-up-ver-center 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+                animation: scale-up-ver-center 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    }
+    /* ----------------------------------------------
+ * Generated by Animista on 2020-3-24 0:42:17
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation scale-up-ver-center
+ * ----------------------------------------
+ */
+@-webkit-keyframes scale-up-ver-center {
+    0% {
+      -webkit-transform: scaleY(0.4);
+              transform: scaleY(0.4);
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+    }
+  }
+  @keyframes scale-up-ver-center {
+    0% {
+      -webkit-transform: scaleY(0.4);
+              transform: scaleY(0.4);
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+    }
+  }
+  p{
+    font-family: cursive;
+    font-size: 18px;
+
+  }
